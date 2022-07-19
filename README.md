@@ -2,6 +2,10 @@
 
 A Blaingly Fast api to get random quote from Assassination Classroom!
 
+Check out it on YouTube:
+
+[![I Created a Blazingly Fast API in Rust for Assassination Classroom](https://img.youtube.com/vi/GN7iD1oM0oo/0.jpg)](https://www.youtube.com/watch?v=GN7iD1oM0oo "I Created a Blazingly Fast API in Rust for Assassination Classroom")
+
 > "Take advantage of what you have, while you have it." ~korosensei
 
 ## Endpoints
